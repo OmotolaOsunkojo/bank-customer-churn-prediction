@@ -1,0 +1,31 @@
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+*$py.class
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+.env
+.venv/
+venv/
+env/
+
+.idea/
+.vscode/
+
+build/
+dist/
+*.egg-info/
+
+.streamlit/secrets.toml
+
+# Jupyter / notebook artifacts
+*.nbconvert.ipynb
+
+# Python packaging
+pip-wheel-metadata/
+
+# Optional local files
+*.log
